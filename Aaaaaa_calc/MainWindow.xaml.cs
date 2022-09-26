@@ -126,7 +126,7 @@ namespace Aaaaaa_calc
                 Label0.Content = "0";
             pomogite = false;
         }
-        private bool Aboba()
+        public bool Aboba()
         {
             if (lab1 != 0 && oper != '√' && oper != '#')
             {
